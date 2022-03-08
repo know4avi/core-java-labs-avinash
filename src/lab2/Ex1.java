@@ -37,7 +37,7 @@ public class Ex1 {
 		
 		int arr[] = {4, 6, 2, 1, 9};
 		 
-		System.out.println(getSecondSmallest2(arr));
+		System.out.println(getSecondSmallest(arr));
 	}
 
 }
